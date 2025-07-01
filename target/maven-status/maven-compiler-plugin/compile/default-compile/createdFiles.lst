@@ -1,0 +1,6 @@
+com\example\xiaohongshu_ai_helper\model\NoteResponse.class
+com\example\xiaohongshu_ai_helper\XiaohongshuAiHelperApplication.class
+com\example\xiaohongshu_ai_helper\repository\NoteRepository.class
+com\example\xiaohongshu_ai_helper\model\NoteEntity.class
+com\example\xiaohongshu_ai_helper\ai\PromptBuilder.class
+com\example\xiaohongshu_ai_helper\model\NoteRequest.class
